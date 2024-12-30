@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 
 namespace SalesWebMvc.Controllers
 {
+
+    /// <summary>
+    ///  This class performs an important function
+    /// </summary>
     public class SellersController : Controller
     {
         private readonly SellerService _sellerService;
